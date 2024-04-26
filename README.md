@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @barneyaross
+- 👀 I’m interested in ... everything really
+- 🌱 I’m currently learning ... python & rust
+- 📫 How to reach me ... barnoross@gmail.com or @barneyross331 on instagram
+- ⚡ Fun fact: ... i am a karate world champion
